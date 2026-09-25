@@ -1,4 +1,8 @@
 .capture/
 my-capture-20260925-151542.zip 
 
-
+.capture/
+my-capture-*.zip
+*.log
+.DS_Store
+Show more lines
