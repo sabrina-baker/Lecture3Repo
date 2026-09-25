@@ -1,0 +1,47 @@
+{"chunk":null,"ts":"2026-09-24T16:42:46Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-24T16:50:50Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: object 'new_cc1_data_mod' not found"}
+{"chunk":null,"ts":"2026-09-24T16:51:23Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: object 'new_cc1_data_mod' not found"}
+{"chunk":null,"ts":"2026-09-24T16:52:29Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: could not find function \"view\""}
+{"chunk":null,"ts":"2026-09-24T16:52:46Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: object 'new_cc1_data_mod' not found"}
+{"chunk":null,"ts":"2026-09-24T16:52:52Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: replacement has 0 rows, data has 46"}
+{"chunk":null,"ts":"2026-09-24T16:54:30Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: could not find function \"%>%\""}
+{"chunk":null,"ts":"2026-09-24T16:54:39Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: could not find function \"rename\""}
+{"chunk":null,"ts":"2026-09-24T17:15:40Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: object 'a' not found"}
+{"chunk":null,"ts":"2026-09-24T17:15:45Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: object 'population_type' not found"}
+{"chunk":null,"ts":"2026-09-24T17:16:21Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: invalid type (list) for variable 'new_cc1_data'"}
+{"chunk":null,"ts":"2026-09-24T17:17:26Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: object 'area_means' not found"}
+{"chunk":null,"ts":"2026-09-24T17:17:30Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: invalid type (list) for variable 'new_cc1_data'"}
+{"chunk":null,"ts":"2026-09-24T17:20:32Z","pid":53551,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-24T17:20:32Z","pid":53551,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-24T17:21:46Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: no rows to aggregate"}
+{"chunk":null,"ts":"2026-09-24T17:22:31Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: no rows to aggregate"}
+{"chunk":null,"ts":"2026-09-24T17:25:31Z","pid":53551,"engine":"r","severity":"warning","render":false,"warning":"## Warning: package ‘knitr’ was built under R version 4.5.2"}
+{"chunk":null,"ts":"2026-09-24T17:29:12Z","pid":53551,"engine":"r","severity":"warning","render":false,"warning":"## Warning: package ‘ggplot2’ was built under R version 4.5.2"}
+{"chunk":null,"ts":"2026-09-24T17:31:34Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22m`data` must be a \u001b[34m<data.frame>\u001b[39m, or an object coercible by `fortify()`, or a valid \u001b[34m<data.frame>\u001b[39m-like object\ncoercible by `as.data.frame()`, not a <ggplot2::mapping> object.\n\u001b[36mℹ\u001b[39m Did you accidentally pass `aes()` to the `data` argument?"}
+{"chunk":null,"ts":"2026-09-24T17:31:35Z","pid":53551,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mArguments in `...` must be used.\n\u001b[31m✖\u001b[39m Problematic argument:\n\u001b[36m•\u001b[39m binwidth = 0.5\n\u001b[36mℹ\u001b[39m Did you misspell an argument name?"}
+{"chunk":null,"ts":"2026-09-24T17:36:00Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22m`data` must be a \u001b[34m<data.frame>\u001b[39m, or an object coercible by `fortify()`, or a valid \u001b[34m<data.frame>\u001b[39m-like object\ncoercible by `as.data.frame()`, not a <ggplot2::mapping> object.\n\u001b[36mℹ\u001b[39m Did you accidentally pass `aes()` to the `data` argument?"}
+{"chunk":null,"ts":"2026-09-24T17:36:00Z","pid":53551,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mArguments in `...` must be used.\n\u001b[31m✖\u001b[39m Problematic argument:\n\u001b[36m•\u001b[39m binwidth = 0.5\n\u001b[36mℹ\u001b[39m Did you misspell an argument name?"}
+{"chunk":null,"ts":"2026-09-24T17:37:13Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22m`data` must be a \u001b[34m<data.frame>\u001b[39m, or an object coercible by `fortify()`, or a valid \u001b[34m<data.frame>\u001b[39m-like object\ncoercible by `as.data.frame()`, not a <ggplot2::mapping> object.\n\u001b[36mℹ\u001b[39m Did you accidentally pass `aes()` to the `data` argument?"}
+{"chunk":null,"ts":"2026-09-24T17:37:13Z","pid":53551,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mArguments in `...` must be used.\n\u001b[31m✖\u001b[39m Problematic argument:\n\u001b[36m•\u001b[39m binwidth = 0.5\n\u001b[36mℹ\u001b[39m Did you misspell an argument name?"}
+{"chunk":null,"ts":"2026-09-24T17:37:45Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22mCan't add `geom_histogram` to\na \u001b[34m<ggplot>\u001b[39m object\n\u001b[36mℹ\u001b[39m Did you forget to add parentheses,\n  as in `geom_histogram()`?"}
+{"chunk":null,"ts":"2026-09-24T17:39:25Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22m`mapping` must be created by `aes()`.\n\u001b[31m✖\u001b[39m You've supplied a \u001b[34m<FacetWrap>\u001b[39m object."}
+{"chunk":null,"ts":"2026-09-24T17:41:44Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22m`mapping` must be created by `aes()`.\n\u001b[31m✖\u001b[39m You've supplied a \u001b[34m<FacetWrap>\u001b[39m object."}
+{"chunk":null,"ts":"2026-09-24T17:42:56Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22m`mapping` must be created by `aes()`.\n\u001b[31m✖\u001b[39m You've supplied a \u001b[34m<FacetWrap>\u001b[39m object."}
+{"chunk":null,"ts":"2026-09-24T17:46:49Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-24T17:51:14Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22mCan't add `facet_wrap(~Population.Type)` to a theme\nobject."}
+{"chunk":null,"ts":"2026-09-24T17:51:30Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22mCan't add `facet_wrap(Population.Type ~ .)` to a\ntheme object."}
+{"chunk":null,"ts":"2026-09-25T02:35:45Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-25T02:36:02Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-25T02:36:14Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-25T02:36:30Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '$'"}
+{"chunk":null,"ts":"2026-09-25T02:36:37Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: no rows to aggregate"}
+{"chunk":null,"ts":"2026-09-25T02:42:54Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '['"}
+{"chunk":null,"ts":"2026-09-25T02:47:40Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-25T15:25:32Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: $ operator is invalid for atomic vectors"}
+{"chunk":null,"ts":"2026-09-25T15:26:51Z","pid":53551,"engine":"r","severity":"error","render":false,"text":"## Error: $ operator is invalid for atomic vectors"}
+{"chunk":null,"ts":"2026-09-25T15:39:42Z","pid":6010,"engine":"r","severity":"warning","render":false,"warning":"## Warning: package ‘knitr’ was built under R version 4.5.2"}
+{"chunk":null,"ts":"2026-09-25T15:39:42Z","pid":6010,"engine":"r","severity":"error","render":false,"text":"## Error: object 'area_means' not found"}
+{"chunk":null,"ts":"2026-09-25T15:40:19Z","pid":6010,"engine":"r","severity":"error","render":false,"text":"## Error: object 'new_cc1_data' not found"}
+{"chunk":null,"ts":"2026-09-25T15:40:57Z","pid":6010,"engine":"r","severity":"warning","render":false,"warning":"## Warning: package ‘ggplot2’ was built under R version 4.5.2"}
+{"chunk":null,"ts":"2026-09-25T15:51:38Z","pid":6010,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-25T15:51:45Z","pid":6010,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '>'"}
